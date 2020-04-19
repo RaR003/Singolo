@@ -1,6 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 
+@media screen and (max-width: 480px) {
+    body {
+        background-color: green;
+    }
+}
+
+
 * {
     outline: 1px dotted lime;
 }
@@ -49,3 +56,17 @@ body {
 .salmon {
     color: #F16C65;
 }
+
+
+.banner {
+    background-color: #F16C65;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.banner img {
+    max-width: 780px;
+    width: 90%;
+}
+
+
