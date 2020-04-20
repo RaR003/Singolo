@@ -111,7 +111,7 @@ body {
 
 .paragraph5 {
     grid-column: 2;
-    margin:10px;
+    margin:10px;S
 }
 
 .paragraph6 {
@@ -120,7 +120,7 @@ body {
 }
 
 #portfolio{
-    display: grid; 1fr 1fr 1fr 1fr;
-    background-color: darkslategray;
+    display: grid;
+    background-color: #38404d;
     height: 800px;
 }
